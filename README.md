@@ -3,7 +3,11 @@
 
 https://www.armbian.com/orangepi-5-max/
 
-2 Step Guide
+2 Install software
+
+apt install cmake build-essential
+
+3 Step Guide
 
 https://www.xda-developers.com/how-i-used-the-npu-on-my-orange-pi-5-pro-to-run-llms/
 
