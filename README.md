@@ -20,4 +20,14 @@ ranking:
 4	Gemma-3-4B	Lo bajo al número 4. Aunque tiene la máxima calidad pura en 4B (como indica la lista original), a menudo es el más "exigente" o menos estable al inicio en hardware no-Google, requiriendo a veces cuantizaciones más específicas (como QAT) para brillar de verdad en la NPU.
 5	Llama-3.1/Minitron 4B	Se mantiene. Excelente compatibilidad y gran comunidad, pero sus rivales lo superan en calidad-eficiencia para tareas específicas en este rango de tamaño.
 
-Exportar a Hojas de cálculo
+
+
+
+Lancg CHain:
+ apt install python3 python3-pip python3.11-venv
+ 
+python3 -m venv /home/ragn0k/LangChain-env
+
+
+apt install python3-pyqt5 pyqt5-dev-tools qt5-qmake
+
