@@ -25,9 +25,14 @@ ranking:
 
 Lancg CHain:
  apt install python3 python3-pip python3.11-venv
- 
+ rkllm:
+apt install python3-dev build-essential qtbase5-dev python3-pyqt5 pyqt5-dev-tools qt5-qmake 
+
+
 python3 -m venv /home/ragn0k/LangChain-env
 
 
-apt install python3-pyqt5 pyqt5-dev-tools qt5-qmake
+
+
+
 
