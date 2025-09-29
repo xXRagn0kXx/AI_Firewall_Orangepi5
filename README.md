@@ -31,7 +31,7 @@ apt install python3-dev build-essential qtbase5-dev python3-pyqt5 pyqt5-dev-tool
 
 python3 -m venv /home/ragn0k/LangChain-env
 
-
+pip3 install pyqt5 --config-settings="--confirm-license=" --verbose
 
 
 
