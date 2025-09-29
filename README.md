@@ -33,6 +33,8 @@ python3 -m venv /home/ragn0k/LangChain-env
 
 pip3 install pyqt5 --config-settings="--confirm-license=" --verbose
 
+apt install python3-pyqt5 python3-pyqt5.qtsvg python3-pyqt5.qtwebsockets
+
 
 
 
